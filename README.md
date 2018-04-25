@@ -6,14 +6,14 @@ FRAFFEL MEDIA's TERMS AND CONDITIONS
 
 Restrictions
 You are specifically restricted from all of the following:
-- publishing any Website material in any other media;
-- selling, sublicensing and/or otherwise commercializing any Website material;
-- publicly performing and/or showing any Website material;
-- using this Website in any way that is or may be damaging to this Website;
-- using this Website in any way that impacts user access to this Website;
-- using this Website contrary to applicable laws and regulations, or in any way may cause harm to the Website, or to any person or business entity;
-- engaging in any data mining, data harvesting, data extracting or any other similar activity in relation to this Website;
-- using this Website to engage in any advertising or marketing.
+- publishing any Website material / file(s) in any other media;
+- selling, sublicensing and/or otherwise commercializing any Website material / file(s);
+- publicly performing and/or showing any Website material / file(s);
+- using this Website in any way that is or may be damaging to this Website / file(s);
+- using this Website in any way that impacts user access to this Website / file(s);
+- using this Website contrary to applicable laws and regulations, or in any way may cause harm to the Website / file(s), or to any person or business entity;
+- engaging in any data mining, data harvesting, data extracting or any other similar activity in relation to this Website / file(s);
+- using this Website / file(s) to engage in any advertising or marketing.
 
 Certain areas of this Website are restricted from being access by you and FRAFFEL ADS may further restrict access by you to any areas of this Website, at any time, in absolute discretion. Any user ID and password you may have for this Website are confidential and you must maintain confidentiality as well.
 
@@ -28,10 +28,12 @@ Limitation of liability
 In no event shall FRAFFEL ADS, nor any of its officers, directors and employees, shall be held liable for anything arising out of or in any way connected with your use of this Website whether such liability is under contract. FRAFFEL ADS, including its officers, directors and employees shall not be held liable for any indirect, consequential or special liability arising out of or in any way related to your use of this Website.
 
 Variation of Terms
-FRAFFEL ADS is permitted to revise these Terms at any time as it sees fit, and by using this Website you are expected to review these Terms on a regular basis.
+FRAFFEL ADS is permitted to revise these Terms at any time as it sees fit, and by using this Website / file(s) you are expected to review these Terms on a regular basis.
 
 Entire Agreement
 These Terms constitute the entire agreement between FRAFFEL ADS and you in relation to your use of this Website, and supersede all prior agreements and understandings.
+
+By using this site and/or file(s) you agree to the above terms.
 
 
 # PRIVACY POLICY
